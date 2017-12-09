@@ -22,7 +22,8 @@
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".Controler.activity_forgotpassword"/>
         <activity android:name=".Controler.CoupenAddActivity"/>
-        <activity android:name=".Controler.QRScanActivity"/>
+        <activity android:name=".Controler.QRScanActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".Controler.LoginActivity"/>
     </application>
 
